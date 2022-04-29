@@ -1,7 +1,7 @@
 default: 
 
 if(usuario == 'ole'){
-  enviar( 'maricon' )
+return m.reply('*El Bot no es admin, no puede eliminar 😅*')
   
   }
   
