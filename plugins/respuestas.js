@@ -7,7 +7,7 @@ let info = `
 ➽❌ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚 𝐥𝐨𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐲 𝐜𝐨𝐧𝐝𝐢𝐜𝐢𝐨𝐧𝐞𝐬
 *╰═┅ৡৢ͜͡✦═╡ 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ╞═┅ৡৢ͜͡✦═╯*
 `
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈', 'status@broadcast')
+conn.reply(m.chat, `*✅ _EL USUARIO FUE BANEADO CON EXITO_*\n\n*_EL HIJO DE PERRA NO PODRÁ USAR EL BOT POR SER UN MARICON CASTROSO CONMIGO_*`, m)
 }
 handler.command = /^(reglas|normas)$/i
 
