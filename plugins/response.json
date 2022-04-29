@@ -1,13 +1,7 @@
-{
-    "DEFAULT":{
+"STEP_1":{
         "replyMessage":[
-            "*Esta respuesta es un respuesta default* cuando no se consigue una palabra clave \n",
-            "la puedes desactivar en tu archivo .env DEFAULT_MESSAGE=false \n",
-            "tambien te quiero recordar que si presentas algun error pasarte por el repositorio \n",
-            "https://github.com/leifermendez/bot-whatsapp#chatbot-whatsapp-opensource \n",
-            "y recuerda tener la ultima versión del proyecto \n\n",
-            "Prueba escribiendo *hola* \n"
+            "Hola! y✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp, lo primero \n",
+            "decirte que mi nombre es *Leifer Mendez*😎  \n",
+            "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
+            "escribe *cursos* o *info* o escribe *audio*"
         ],
-        "media":null,
-        "trigger":null
-    },
