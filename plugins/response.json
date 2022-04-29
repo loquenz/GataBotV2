@@ -5,3 +5,16 @@
             "\n Si necesitas ver más info sobre las capacitacion tecnicas ",
             "escribe *cursos* o *info* o escribe *audio*"
         ],
+        "media":"https://media2.giphy.com/media/VQJu0IeULuAmCwf5SL/giphy.gif",
+        "trigger":null,
+        "actions":{
+            "title":"¿Que te interesa ver?",
+            "message":"Recuerda todo este contenido es gratis y estaria genial que me siguas!",
+            "footer":"Gracias",
+            "buttons":[
+                {"body":"Cursos"},
+                {"body":"Youtube"},
+                {"body":"Telegram"}
+            ]
+        }
+    },
